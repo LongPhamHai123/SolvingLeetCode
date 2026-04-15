@@ -18,6 +18,7 @@ This is a repo linked from LeetCode to Github
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/0020-valid-parentheses/) | Easy |
+| [0383-ransom-note](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/0383-ransom-note/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -32,4 +33,9 @@ This is a repo linked from LeetCode to Github
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/0001-two-sum/) | Easy |
+| [0383-ransom-note](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/0383-ransom-note/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0383-ransom-note](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/0383-ransom-note/) | Easy |
 <!---LeetCode Topics End-->
