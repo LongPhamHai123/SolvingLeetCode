@@ -3,10 +3,10 @@ public:
     void dfs(vector<vector<int>>& image, int sr, int sc, int original_color, int color) {
         int row = image.size();
         int col = image[0].size();
-        if (image[sr][sc] != original_color) return;
-        if (( sr < 0 || sr >= row) || (sc < 0 || sc >= col )){
+        if ( sr < 0 || sr >= row || sc < 0 || sc >= col ){
             return;
         }
+        if (image[sr][sc] != original_color) return;
         image[sr][sc] = color;
         dfs( image,sr+1,sc, original_color, color);
         dfs( image,sr-1,sc, original_color, color);
