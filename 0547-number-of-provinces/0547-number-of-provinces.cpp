@@ -1,6 +1,6 @@
 class Solution {
 public:
-    void dfs(vector<vector<int>>& isConnected, vector<bool> visited, int i) {
+    void dfs(vector<vector<int>>& isConnected, vector<bool>& visited, int i) {
         visited[i] = true;
         int n = isConnected.size();
         for (int j=0; j < n; j++) {
